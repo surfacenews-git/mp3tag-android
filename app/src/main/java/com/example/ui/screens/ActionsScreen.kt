@@ -115,7 +115,7 @@ fun ActionsScreen(
                         .padding(16.dp)
                 ) {
                     Column {
-                        Text("Actions & Automation", style = MaterialTheme.typography.headlineSmall)
+                        Text("Actions & Automations", style = MaterialTheme.typography.headlineSmall)
                         Text(
                             text = "Batch cleanup across ${targetTracks.size} track(s)",
                             style = MaterialTheme.typography.bodySmall,
