@@ -1,0 +1,6 @@
+{
+  "name": "Mp3tag",
+  "description": "Audio metadata and batch tag editor for MP3, FLAC, M4A, OGG, and WAV files with converters, actions, cover art, and online tag lookup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

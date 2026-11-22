@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Mp3tag</string>
+    <string name="nav_files">Files</string>
+    <string name="nav_convert">Convert</string>
+    <string name="nav_actions">Actions</string>
+    <string name="nav_lookup">Tag Sources</string>
+    <string name="nav_settings">Settings</string>
+    <string name="action_open_folder">Open Folder</string>
+    <string name="action_pick_files">Pick Audio Files</string>
+    <string name="action_create_samples">Create Sample Tracks</string>
+    <string name="action_save_tags">Save Tags</string>
+    <string name="action_revert">Revert</string>
+    <string name="keep_existing">&lt;keep&gt;</string>
+    <string name="cd_album_art">Album cover artwork</string>
+    <string name="cd_play_track">Play audio preview</string>
+    <string name="cd_pause_track">Pause audio preview</string>
+    <string name="cd_select_track">Select track</string>
+    <string name="cd_settings">Open settings</string>
+    <string name="cd_empty_studio">Audio mastering workspace illustration</string>
+</resources>
